@@ -1,6 +1,6 @@
-# flutter0001
+# badminton_yard_booking_app
 
-A new Flutter project.
+A new Flutter application.
 
 ## Getting Started
 
